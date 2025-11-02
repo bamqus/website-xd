@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(rgb(226, 172, 172));
+}
+
+h1 {
+    text-align: center;
+}
+input, select  {
+    background-color: hsl(184, 100%, 80%);
+    font-size: 25px;
+    border-radius: 10px;
+    border-color: hsl(184, 100%, 80%);
+    
+}
+form {
+    margin-top: 5%;
+    margin-left: 42%;
+}
+
+button {
+    background-color: rgb(118, 214, 118);
+    margin: 0 10px;
+    border-radius: 3px;
+    border: 2px solid rgb(118, 214, 118);
+    font-size: 30px;
+    
+    
+}
+
+button:hover {
+    background-color: rgb(90, 145, 90);
+}
+
+#country {
+    font-size: 15px;
+}
